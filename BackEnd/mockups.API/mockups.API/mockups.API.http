@@ -1,0 +1,6 @@
+@mockups.API_HostAddress = http://localhost:5065
+
+GET {{mockups.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
